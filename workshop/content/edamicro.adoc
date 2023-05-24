@@ -63,6 +63,7 @@ command twice. No worries!
 
 . Now, go back to the OpenShift web console, making sure you are using the
 `%user%-eda` project
+
 Console URL: %openshift_console_url%
 * Login:
 ----
