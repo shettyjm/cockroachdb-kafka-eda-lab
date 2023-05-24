@@ -65,6 +65,7 @@ command twice. No worries!
 `%user%-eda` project
 
 Console URL: %openshift_console_url%
+
 * Login:
 ----
 %user%
